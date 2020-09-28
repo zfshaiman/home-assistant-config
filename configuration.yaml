@@ -48,7 +48,7 @@ sensor:
 
 spotify:
   client_id: 7094906ff3694618b499d85a972b19a7
-  client_secret: 3a4f49647d43404bbef16e31576b26ff
+  client_secret: CLIENT_SECRET
 
 # Uncomment this if you are using SSL/TLS, running in Docker container, etc.
 # http:
